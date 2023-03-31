@@ -14,6 +14,6 @@ def multiply(g,h):
     answer=g*h
     return answer
 
-def remainder(i,j):
+def remainder(l,j):
     answer = i%j
     return answer
