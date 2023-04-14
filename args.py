@@ -38,7 +38,7 @@ def concatenate_args(*names):
 
 
 # A function named concatenate_kwargs that takes any number of string arguments
-#  in keyword arguments  format and concatenates them into a single string
+#  in keyword arguments  format and concatenates them into a singles string
 def concatenate_kwargs(**kwargs):
     content=""
     for key,value in kwargs.items():
