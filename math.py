@@ -14,6 +14,11 @@ def multiply(g,h):
     answer=g*h
     return answer
 
-def remainder(l,j):
+def remainder(i,j):
     answer = i%j
     return answer
+
+def add(c,d):
+    answer=c+d
+    return answer
+
